@@ -1,0 +1,20 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  padding:0;
+  margin:0px;
+}
+
+a {
+  color: #00B7FF;
+}
+.text-center{
+  color: rgb(14, 212, 212);
+  font-family: cursive;
+  text-shadow:2px 1px rgb(241, 175, 7);
+}
+
+ .fa{
+   font-size: 40px;
+   color: #00B7FF;
+ } 
